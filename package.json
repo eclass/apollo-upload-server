@@ -31,6 +31,7 @@
   "dependencies": {
     "@babel/runtime-corejs2": "^7.0.0-rc.1",
     "busboy": "^0.2.14",
+    "fs-capacitor": "^0.0.3",
     "object-path": "^0.11.4"
   },
   "peerDependencies": {
